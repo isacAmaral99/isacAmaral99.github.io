@@ -1,0 +1,115 @@
+    .interna_produtos {
+        background: url("../img/Produtos/Produtos_Foto1_PosHeader.jpg") no-repeat center;
+        background-size: cover;
+    }
+    /* .contato {
+        padding: 40px 0;
+    }
+    
+    .contato h2 {
+        color: #0A8F3B;
+    }
+    
+    .contato h2::after {
+        background: #0A8F3B;
+    } */
+    /* .form_contato {
+        padding-right: 60px;
+    }
+    
+    .form_contato label {
+        display: block;
+        color: #000000;
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        font-size: 18px;
+        line-height: 25px;
+        margin-bottom: 4px;
+    }
+    
+    .form_contato input {
+        display: block;
+        width: 100%;
+        border: 4px solid #fec63e;
+        background: none;
+        color: #000000;
+        font-size: 14px;
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        padding: 7px 10px;
+        margin-bottom: 10px;
+        outline: none;
+    }
+    
+    .form_contato textarea {
+        display: block;
+        width: 100%;
+        height: 120px;
+        border: 4px solid #fec63e;
+        background: none;
+        color: rgb(12, 12, 12);
+        font-size: 14px;
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        padding: 7px 10px;
+        margin-bottom: 20px;
+        outline: none;
+    } */
+    /* .form_contato button {
+        background: none;
+        padding: 7px 40px;
+    } */
+    
+    .contato_dados {
+        color: #000000;
+    }
+    
+    .contato_dados h3 {
+        padding-top: 50px;
+        font-size: 18px;
+        text-transform: uppercase;
+        color: #0A8F3B;
+        line-height: 25px;
+        font-weight: bold;
+    }
+    
+    .contato_dados span {
+        display: block;
+        font-size: 18px;
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        line-height: 30px;
+    }
+    
+    .contato_dados ul {
+        padding-right: 40px;
+    }
+    
+    .contato_dados ul li {
+        font-size: 14px;
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        padding: 10px 10px;
+    }
+    
+    .contato_dados ul li {
+        display: inline-block;
+        margin-right: 10px;
+    }
+    
+    .contato_dados ul li a {
+        border: 3px solid #0A8F3B;
+        display: block;
+        padding: 10px;
+    }
+    
+    .contato_dados ul li a:hover {
+        border-color: #000F46;
+    }
+    
+    .contato_dados p {
+        margin: 8px 0px;
+    }
+    
+    .contato_mapa {
+        margin-bottom: 60px;
+    }
+    
+    .redes_contato {
+        padding-top: 50px;
+    }
